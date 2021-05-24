@@ -1,0 +1,24 @@
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Lush Cosmetics Ltd"
+ORG_URL="https://www.lush.com"
+ORG_LOGO="https://i.imgur.com/j6CDEN6.png"
+ORG_DESCRIPTION="Description of issuer"
+ORG_PHYSICAL_ADDRESS="123 Sesame Street, New York, NY 12345, United States"
+ORG_PHYSICAL_ADDRESS_ATTESTATION="https://www.domain.com/address_attestation.jpg"
+ORG_PHONE_NUMBER="1 (123)-456-7890"
+ORG_PHONE_NUMBER_ATTESTATION="https://www.domain.com/phone_attestation.jpg"
+ORG_KEYBASE="accountname"
+ORG_TWITTER="orgtweet"
+ORG_GITHUB="orgcode"
+ORG_OFFICIAL_EMAIL="support@domain.com"
+
+[[CURRENCIES]]
+code="LUSHSPA01"
+issuer="GDPIYQV3E47MXUPUOTCYN3RNAGZXCMPXRDIO3TFYQBZIWI4ONOYWUOBI"
+display_decimals=4
+name="LUSHSPA01"
+desc="1 LUSH-SPA1 token can be redeemable against one The Comforter? Spa Treatment"
+conditions="Some conditions here"
+image="https://res.cloudinary.com/lush/image/upload/s--faj-eLZi--/c_fill,h_200,w_200/v1/lush_content/products/main/2019/08/comforter-commerce.png?itok=-gHAhJ1h"
